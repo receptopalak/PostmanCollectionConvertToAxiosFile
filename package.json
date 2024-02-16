@@ -1,0 +1,17 @@
+{
+  "name": "postmancollectionconverttoaxiosfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Converter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "fs": "^0.0.1-security"
+  }
+}
