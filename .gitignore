@@ -1,2 +1,2 @@
 *.postman_collection.json
-/node_modules
+node_modules
